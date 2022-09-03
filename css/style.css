@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(238, 222, 161);
+}
+h1,
+p {
+  text-align: center;
+}
+h1 {
+  display: block;
+  margin: 22px 0;
+  font-weight: bolder;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.links {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
