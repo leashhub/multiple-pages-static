@@ -19,5 +19,5 @@ img {
 .links {
   text-align: center;
   display: flex;
-  justify-content: space-evenly;
+  margin: 10px 0;
 }
