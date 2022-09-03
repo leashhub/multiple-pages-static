@@ -17,7 +17,8 @@ img {
   margin: 30px auto;
 }
 .links {
-  text-align: center;
   display: flex;
-  margin: 10px 0;
+  justify-content: center;
+  margin: auto;
+  margin: 10px 10px;
 }
